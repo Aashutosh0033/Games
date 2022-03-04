@@ -1,2 +1,2 @@
 # Games
-This repo contains small games coded in python
+This repo contains small games coded in Python
